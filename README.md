@@ -1,5 +1,3 @@
-# Javeria Nadeem
-
 ## 📝 Latest Articles
 
 ### [How to Download and Install MetaMask Extension on Chrome](https://www.widechain.wiki/)
